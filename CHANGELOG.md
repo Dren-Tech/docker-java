@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+### Added
+- Install Gradle v2.8.
+- Install wget, git and unzip.
+- Add Makefile for tasks like build, run or cleaning up the images.
+
 ## [0.1.0] - 2015-10-24
 ### Added
 - opensuse:13.2 as base image.
