@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## [0.2.0] - 2015-10-25
 ### Added
 - Install Gradle v2.8.
 - Install wget, git and unzip.
