@@ -1,4 +1,4 @@
-FROM opensuse:13.2
+FROM opensuse/tumbleweed
 
 MAINTAINER Marian Sievers <info@mariansievers.de>
 
