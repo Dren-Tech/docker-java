@@ -6,7 +6,7 @@ MAINTAINER Marian Sievers <info@mariansievers.de>
 RUN zypper install -y git wget unzip
 
 # install open-jdk
-RUN zypper install -y java-1_8_0-openjdk java-1_8_0-openjdk-devel
+RUN zypper install -y java-1_11_0-openjdk java-1_11_0-openjdk-devel
 
 # install Gradle
 RUN wget --no-check-certificate https://services.gradle.org/distributions/gradle-2.8-all.zip && unzip gradle-2.8-all.zip
